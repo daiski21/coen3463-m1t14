@@ -28,4 +28,9 @@ figcaption {
 a {
 	color: black;
 }
-
+img {
+	border: 5px solid black;
+    border-radius: 4px;
+    border-radius: 50%;
+    
+}
