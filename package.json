@@ -1,22 +1,23 @@
 {
-  "name": "myapp",
+  "name": "module1",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
-  	"start": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daiski21/homepage.git"
+    "url": "git+https://github.com/daiski21/coen3463-m1t14.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daiski21/homepage/issues"
+    "url": "https://github.com/daiski21/coen3463-m1t14/issues"
   },
-  "homepage": "https://github.com/daiski21/homepage#readme",
+  "homepage": "https://github.com/daiski21/coen3463-m1t14#readme",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
