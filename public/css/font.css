@@ -1,0 +1,31 @@
+.title, .subtitle {
+	font-size: 100px;
+	font-family: Comic Sans MS;
+}
+.section {
+	background-color: #00d1b2;
+}
+h2 {
+	position: relative;
+	left: 410px;
+}
+
+.image1 {
+	position: relative;
+	left: 200px;
+	top: 50px;
+}
+.image2 {
+	position: relative;
+	left: 650px;
+	top:-295px;
+}
+figcaption {
+	font-size: 25px;
+	position: relative;
+	left: 55px;
+}
+a {
+	color: black;
+}
+
